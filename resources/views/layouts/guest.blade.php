@@ -26,7 +26,7 @@
     </div>
 </div>
 <!-- /.login-box -->
-<footer class="main-footer">
+<footer style="background: white;padding: 20px;width: 100%;text-align: center;bottom: 0;position: absolute;">
     <!-- To the right -->
     <div class="float-right d-none d-sm-inline">
         Anything you want
