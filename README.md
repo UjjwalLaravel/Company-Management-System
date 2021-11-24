@@ -3,7 +3,7 @@
 ## About This Project
 
 This project is in development phase. 
-The idea behind this project is to create a panel for management of the company's projects, employees.
+The idea behind this project is to create a panel for management of the company's projects, employees. Manage all the entities at one place
 It is just the starting phase. All suggestions are welcome.
 
 Register and check for yourself.
