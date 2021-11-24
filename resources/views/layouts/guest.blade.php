@@ -26,6 +26,14 @@
     </div>
 </div>
 <!-- /.login-box -->
+<footer class="main-footer">
+    <!-- To the right -->
+    <div class="float-right d-none d-sm-inline">
+        Anything you want
+    </div>
+    <!-- Default to the left -->
+    <strong>Copyright &copy; {{date('Y')}} S.K. Engineers.</strong> All rights reserved. Developed by Ujjwal Goyal
+</footer>
 
 <script src="{{ asset('js/app.js') }}"></script>
 <!-- Bootstrap 4 -->
